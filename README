@@ -1,0 +1,11 @@
+DESCRIPTION
+===========
+
+This program sorts the 20 random numbers given by Shell.
+
+RUNNING THE PROGRAMM
+====================
+
+	cd SortShell
+	make
+	./sortshell
